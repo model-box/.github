@@ -2,7 +2,7 @@
 
 # ModelBox
 
-Empowering developers to seamlessly integrate AI capabilities, we simplify the process of building great AI-enhanced applications.
+We simplify the integration of AI capabilities, empowering developers to effortlessly build outstanding AI-enhanced applications.
 
 # Getting Started
 
@@ -12,7 +12,7 @@ AI Kit is a collection of ready-to-go Chat UI/API SDK to help you integrate AI c
 
 ## [ModelBox](https://model.box)
 
-The develop platform for AI developers to build, analyze, and optimize AI applications.
+The develope platform for AI developers to build, analyze, and optimize AI applications.
 
 # Where to find us
 
