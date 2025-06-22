@@ -6,13 +6,15 @@ We simplify the integration of AI capabilities, empowering developers to effortl
 
 # Getting Started
 
-## [AI Kit](https://github.com/model-box/ai-kit)
+## [AgentKit](https://agentkit.tech)
 
-AI Kit is a collection of ready-to-go Chat UI/API SDK to help you integrate AI capabilities into your applications. It is designed to be simple, easy to use, and customizable.
+Repo: https://github.com/model-box/agent-kit
+
+AgentKit is the production ready tool kit for your AI Agents. With built in chat history management, context engineering and telemetry support.
 
 ## [ModelBox](https://model.box)
 
-The develope platform for AI developers to build, analyze, and optimize AI applications.
+The develop platform for AI developers to build, analyze, and optimize AI applications.
 
 # Where to find us
 
